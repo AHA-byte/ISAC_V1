@@ -1,0 +1,17 @@
+names:
+  0: enemy_aware
+  1: enemy_unaware
+  2: enemy_hidding
+  3: waypoint
+  4: interact_prompt
+  5: obstacle
+  6: interact_object
+  7: waypoint_trail
+  8: rope_direction_up
+  9: rope_direction_down
+  10: os_loot
+  11: mission_report
+  12: waypoint_object
+path: .
+train: train.txt
+val: train.txt
